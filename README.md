@@ -12,8 +12,8 @@ Hello, I'm DaYoung.<br/>
 <br/><br/>
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchajuhui123&count_bg=%23FFD5D5&title_bg=%23FF7575&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com)
- <a href="https://www.notion.so/Lee-da-young-e385aded24e046e5ac4baa0210b88d31?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-F59300?style=flat-square&logo=이미지 이름&logoColor=white"/></a>
+노션 링크
+홈페이지 링크
 
   
 ﹏﹏﹏﹏﹏﹏﹏
@@ -42,6 +42,8 @@ Hello, I'm DaYoung.<br/>
 <img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+<img src="https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
+
 
 
 </div>
