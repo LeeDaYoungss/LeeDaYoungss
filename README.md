@@ -40,7 +40,6 @@ Hello, I'm DaYoung.<br/>
 <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/react-0769AD?style=for-the-badge&logo=react&logoColor=white"/>
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
 
