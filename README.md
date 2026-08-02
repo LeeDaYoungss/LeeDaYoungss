@@ -12,8 +12,13 @@ Hello, I'm DaYoung.<br/>
 <br/><br/>
 
 
-노션 링크
-홈페이지 링크
+<a href="https://app.notion.com/p/leedayounggg/8ac1eaf07f12823093a9813e18dcf513?source=copy_link">
+  <img src="https://img.shields.io/badge/notion-000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
+</a>
+<br/>
+<a href="leedayoung.dothome.co.kr">
+  <img src="https://img.shields.io/badge/portfolio-5F259F.svg?style=for-the-badge&logo=googlehome&logoColor=white"/>
+</a>
 
   
 ﹏﹏﹏﹏﹏﹏﹏
