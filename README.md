@@ -16,7 +16,7 @@ Hello, I'm DaYoung.<br/>
   <img src="https://img.shields.io/badge/notion-000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
 </a>
 <br/>
-<a href="https://leedayoung.dothome.co.kr" target="_blank">
+<a href="https://leedayoung.dothome.co.kr" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/portfolio-5F259F.svg?style=for-the-badge&logo=googlehome&logoColor=white"/>
 </a>
 
